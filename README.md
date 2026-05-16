@@ -1,5 +1,5 @@
 # How to Download&Use
-1.Jump to [here](https://github.com/Banana-Niku87729/Get_Rec877Pages/releases/download/barpc-1.0.1/bluearchive-rpc-setup.exe)<br>
+1.Jump to [here](https://github.com/Banana-Niku87729/Get_Rec877Pages/releases/download/barpc-1.0.0/bluearchive-rpc-setup.exe)<br>
 2.Run the bluearchive-rpc-setup.exe<br>
 3.Launch a BlueArchive RPC<br>
 4.Lunch a BlueArchive<br>
