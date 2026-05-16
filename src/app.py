@@ -95,7 +95,7 @@ class BlueArchiveRPC:
                     start=int(time.time()),
                     buttons=[
                         {"label": "Download Client", "url": "https://bluearchive.jp"},
-                        {"label": "Download RPC", "url": "https://github.com/Banana-Niku87729/Get_Rec877Pages/releases/download/barpc-1.0.1/bluearchive-rpc-setup.exe"}
+                        {"label": "Download RPC", "url": "https://github.com/Banana-Niku87729/Get_Rec877Pages/releases/download/barpc-1.0.0/bluearchive-rpc-setup.exe"}
                     ]
                 )
                 self.is_connected = True
