@@ -9,3 +9,9 @@
 # How to Stop Using
 1.Open the tasktray<br>
 2.Right-click BlueArchive RPC and click "終了"<br>
+
+# How to Build
+1.Download the files `app.py`, `app.spec`, and `halo.ico` located in the `src` folder.
+2.Move the downloaded file to a folder
+3.Open the CommandPrompt
+4.Run `pyinstaller app.spec`. (If Python or PyInstaller is not installed, please install them.)
